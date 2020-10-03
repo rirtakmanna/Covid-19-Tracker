@@ -1,4 +1,63 @@
+.navbar__logo {
+  height: 3.2rem;
+  width: auto;
+}
+.toggle {
+  cursor: pointer;
+}
+.toggle__icon {
+  height: 2.5rem;
+}
+.toggle__text {
+  font-size: 1.25rem;
+}
 
-h1{
-  font-size: calc(10px + 2vmin);
+.myBtn {
+  font-size: 1.2rem;
+}
+
+.my-dropdown {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--font-color);
+  background-color: var(--background-color);
+  border-color: var(--select-color);
+}
+
+.formWith {
+  max-width: 25rem;
+  min-width: 18.75rem;
+}
+
+.additionlFont {
+  font-size: 1.2rem;
+}
+
+canvas {
+  min-height: 12.5rem;
+}
+
+.myMedia {
+  width: 100%;
+}
+
+@media only screen and (max-width: 62em) {
+  .myMedia {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 48em) {
+  .navbar__logo {
+    height: 2.5rem;
+  }
+  .toggle__icon {
+    height: 1.8rem;
+  }
+  .toggle__text {
+    font-size: 1rem;
+  }
+  .myMedia {
+    width: 100%;
+  }
 }

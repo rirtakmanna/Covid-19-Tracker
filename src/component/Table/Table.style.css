@@ -1,0 +1,32 @@
+.myTable {
+  overflow-y: scroll;
+  height: 28.125rem;
+}
+
+.myTable::-webkit-scrollbar {
+  width: 10px;
+}
+
+.myTable::-webkit-scrollbar-track {
+  background: #fcf7f8;
+}
+
+.myTable::-webkit-scrollbar-thumb {
+  background: var(--thum-color);
+}
+
+.myTable::-webkit-scrollbar-thumb:hover {
+  background: var(--select-color);
+}
+
+.myTable th {
+  color: var(--font-color);
+  font-size: 1.1rem;
+  font-weight: 900;
+  font-family: inherit;
+}
+
+.myTable td {
+  color: var(--font-color);
+  font-size: .9rem;
+}

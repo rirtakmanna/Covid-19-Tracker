@@ -1,0 +1,31 @@
+.myCard {
+  color: var(--font-color);
+  background-color: var(--background-color);
+  border-color: var(--select-color);
+  cursor: pointer;
+}
+
+.myCard--selected {
+  border: 0.5rem solid #7ddf64;
+}
+
+.myCard--red {
+  border-color: #b22222;
+}
+
+.myCard__tittle {
+  font-size: 1.2rem;
+  font-weight: 900;
+}
+
+.myCard__cases {
+  color: #b22222;
+}
+
+.myCard__cases--green {
+  color: #7ddf64 !important;
+}
+
+.myCard__total {
+  font-size: 0.8rem;
+}

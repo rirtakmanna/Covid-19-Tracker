@@ -1,0 +1,218 @@
+[
+  {
+    "key": "AN",
+    "name": "Andaman and Nicobar Islands",
+    "Latitude": 11.66702557,
+    "Longitude": 92.73598262
+  },
+  {
+    "key": "AP",
+    "name": "Andhra Pradesh",
+    "Latitude": 14.7504291,
+    "Longitude": 78.57002559
+  },
+  {
+    "key": "AR",
+    "name": "Arunachal Pradesh",
+    "Latitude": 27.10039878,
+    "Longitude": 93.61660071
+  },
+  {
+    "key": "AS",
+    "name": "Assam",
+    "Latitude": 26.7499809,
+    "Longitude": 94.21666744
+  },
+  {
+    "key": "BR",
+    "name": "Bihar",
+    "Latitude": 25.78541445,
+    "Longitude": 87.4799727
+  },
+  {
+    "key": "CG",
+    "name": "Chandigarh",
+    "Latitude": 30.71999697,
+    "Longitude": 76.78000565
+  },
+  {
+    "key": "CH",
+    "name": "Chhattisgarh",
+    "Latitude": 22.09042035,
+    "Longitude": 82.15998734
+  },
+  {
+    "key": "DH",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "Latitude": 20.26657819,
+    "Longitude": 73.0166178
+  },
+  {
+    "key": "DL",
+    "name": "Delhi",
+    "Latitude": 28.6699929,
+    "Longitude": 77.23000403
+  },
+  {
+    "key": "GA",
+    "name": "Goa",
+    "Latitude": 15.491997,
+    "Longitude": 73.81800065
+  },
+  {
+    "key": "GJ",
+    "name": "Gujarat",
+    "Latitude": 22.2587,
+    "Longitude": 71.1924
+  },
+  {
+    "key": "HR",
+    "name": "Haryana",
+    "Latitude": 28.45000633,
+    "Longitude": 77.01999101
+  },
+  {
+    "key": "HP",
+    "name": "Himachal Pradesh",
+    "Latitude": 31.10002545,
+    "Longitude": 77.16659704
+  },
+  {
+    "key": "JK",
+    "name": "Jammu and Kashmir",
+    "Latitude": 34.29995933,
+    "Longitude": 74.46665849
+  },
+  {
+    "key": "JH",
+    "name": "Jharkhand",
+    "Latitude": 23.80039349,
+    "Longitude": 86.41998572
+  },
+  {
+    "key": "KA",
+    "name": "Karnataka",
+    "Latitude": 12.57038129,
+    "Longitude": 76.91999711
+  },
+  {
+    "key": "KL",
+    "name": "Kerala",
+    "Latitude": 8.900372741,
+    "Longitude": 76.56999263
+  },
+  {
+    "key": "Ld",
+    "name": "Ladakh",
+    "Latitude": 34.209515,
+    "Longitude": 77.615112
+  },
+  {
+    "key": "LD",
+    "name": "Lakshadweep",
+    "Latitude": 10.56257331,
+    "Longitude": 72.63686717
+  },
+  {
+    "key": "MP",
+    "name": "Madhya Pradesh",
+    "Latitude": 21.30039105,
+    "Longitude": 76.13001949
+  },
+  {
+    "key": "MH",
+    "name": "Maharashtra",
+    "Latitude": 19.25023195,
+    "Longitude": 73.16017493
+  },
+  {
+    "key": "MN",
+    "name": "Manipur",
+    "Latitude": 24.79997072,
+    "Longitude": 93.95001705
+  },
+  {
+    "key": "ML",
+    "name": "Meghalaya",
+    "Latitude": 25.57049217,
+    "Longitude": 91.8800142
+  },
+  {
+    "key": "MZ",
+    "name": "Mizoram",
+    "Latitude": 23.71039899,
+    "Longitude": 92.72001461
+  },
+  {
+    "key": "NL",
+    "name": "Nagaland",
+    "Latitude": 25.6669979,
+    "Longitude": 94.11657019
+  },
+  {
+    "key": "OR",
+    "name": "Odisha",
+    "Latitude": 19.82042971,
+    "Longitude": 85.90001746
+  },
+  {
+    "key": "PY",
+    "name": "Puducherry",
+    "Latitude": 11.93499371,
+    "Longitude": 79.83000037
+  },
+  {
+    "key": "PB",
+    "name": "Punjab",
+    "Latitude": 31.51997398,
+    "Longitude": 75.98000281
+  },
+  {
+    "key": "RJ",
+    "name": "Rajasthan",
+    "Latitude": 26.44999921,
+    "Longitude": 74.63998124
+  },
+  {
+    "key": "SK",
+    "name": "Sikkim",
+    "Latitude": 27.3333303,
+    "Longitude": 88.6166475
+  },
+  {
+    "key": "TN",
+    "name": "Tamil Nadu",
+    "Latitude": 12.92038576,
+    "Longitude": 79.15004187
+  },
+  {
+    "key": "TS",
+    "name": "Telengana",
+    "Latitude": 18.1124,
+    "Longitude": 79.0193
+  },
+  {
+    "key": "TR",
+    "name": "Tripura",
+    "Latitude": 23.83540428,
+    "Longitude": 91.27999914
+  },
+  {
+    "key": "UK",
+    "name": "Uttar Pradesh",
+    "Latitude": 27.59998069,
+    "Longitude": 78.05000565
+  },
+  {
+    "key": "UP",
+    "name": "Uttarakhand",
+    "Latitude": 30.32040895,
+    "Longitude": 78.05000565
+  },
+  {
+    "key": "WB",
+    "name": "West Bengal",
+    "Latitude": 22.58039044,
+    "Longitude": 88.32994665
+  }
+]
