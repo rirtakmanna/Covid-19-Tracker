@@ -9,6 +9,9 @@ component.ps1
 # testing
 /coverage
 
+# Production
+/build
+
 # misc
 .DS_Store
 .env.local
